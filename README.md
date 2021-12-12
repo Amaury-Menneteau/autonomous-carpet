@@ -45,3 +45,7 @@ The table of the functions used in this project:
 |    motor.forward(...)   | uint8_t | none | set the power of the machine |
 
 &nbsp;
+
+
+# Video of our project (making and results)
+
