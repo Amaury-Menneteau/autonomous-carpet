@@ -18,3 +18,30 @@ Here is the flowchart of our project :
 * TLE5206 : driver for motors
 * A car
 
+
+Here is the schema :
+
+## Code description
+
+In our code, we included libraries that were used to bring function needed in the slotcar. 
+You can find the main.cpp here (above?)
+
+List of librairies :
+
+* bluetooth.h : the bluetooth doesn't work
+* i2c.h : For bluetooth too
+* led.h : turn on or off the leds of the slotcar
+* LSMD9DS1.h : library used for the gyroscope, accelerometer and magnetometer (get values, calibrate)
+* morot.h : library for motor settings (direction, power)
+
+&nbsp;
+
+The table of the functions used in this project:
+|    FUNCTION NAME   |  PARAMETERS  |     RETURN   | APPLICATION                                                                                                                                                                                                                       |
+|:------------------:|:------------:|:------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      imu.calcgyro(...)     |     x,y and z values     |     values of x, y and z     | take values of gyroscope and return them.                                                                                                               |
+|   imu.calibrate()   |     none     |     none     | set values of gyroscope to 0   |
+|     led.forward_left(...),led.forward_left(...),led.reverse_left(...),led.reverse_right(...)    |     boolean true or false     |     none     | use to activate or desactivate leds of the car  |
+|    motor.forward(...)   | uint8_t | none | set the power of the machine |
+
+&nbsp;
