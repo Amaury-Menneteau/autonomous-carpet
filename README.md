@@ -1,6 +1,6 @@
 # Digital electronics 2 final project : Autonomous-car
 
-here is the link to our project :
+here is the link to our project : https://github.com/Amaury-Menneteau/autonomous-carpet
 
 ## Project objectives :
 
