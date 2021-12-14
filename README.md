@@ -21,6 +21,9 @@ Here is the flowchart of our project :
 
 Here is the schema :
 
+[arcar-1.pdf](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711540/arcar-1.pdf)
+
+
 ## Code description
 
 In our code, we included libraries that were used to bring function needed in the slotcar. 
