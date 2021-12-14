@@ -6,7 +6,8 @@
 
 The project has for goal to implement a code in C language on an ATmega328PB in a small car in order to make the car autonomous on tracks.
 
-Here is the flowchart of our project :
+Here is the flowchart of our project :![Flowchart Car](https://user-images.githubusercontent.com/91128744/146003616-dc5f9ba7-d412-4619-adff-a7693c439df7.png)
+
 
 
 
