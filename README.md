@@ -58,3 +58,10 @@ The table of the functions used in this project:
 
 ## Video of our project (making and results)
 
+https://youtu.be/fv4nbRjT1gU
+
+https://youtu.be/S8ezZSRTZDc
+
+https://youtu.be/nq-X5Y7Kj_g
+
+https://youtu.be/-Rb3RZLd1xA
