@@ -1,5 +1,7 @@
 # Digital electronics 2 final project : Autonomous-car
 
+by Amaury Menneteau, Ozan Dinc, Raúl Gómez Ibáñez and Adrián Rosat Badia
+
 here is the link to our project : https://github.com/Amaury-Menneteau/autonomous-carpet
 
 ## Project objectives :
