@@ -37,7 +37,7 @@ List of librairies :
 * i2c.h : For bluetooth too
 * [led.h](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711662/led.txt) : turn on or off the leds of the slotcar
 * [LSMD9DS1.h](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711667/LSMD9DS1.txt),
-* [LSMD9DS1 - types.h](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711669/LSMD9DS1.-.types.txt)
+* [LSMD9DS1 - types.h](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711669/LSMD9DS1.-.types.txt),
 * [LSMD9DS1 - registers.h](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711672/LSMD9DS1.-.registers.txt) : libraries used for the gyroscope, accelerometer and magnetometer (get values, calibrate)
 * [motor.txt](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711675/motor.txt)
 : library for motor settings (direction, power)
