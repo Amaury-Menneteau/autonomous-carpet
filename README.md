@@ -21,7 +21,8 @@ Here is the flowchart of our project :
 
 Here is the schema :
 
-[arcar-1.pdf](https://github.com/Amaury-Menneteau/autonomous-carpet/files/7711540/arcar-1.pdf)
+
+![arcarr](https://user-images.githubusercontent.com/91128744/145998473-1d193036-aa4d-477d-938d-53b1a619df0c.png)
 
 
 ## Code description
