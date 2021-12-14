@@ -37,7 +37,7 @@ List of librairies :
 * i2c.h : For bluetooth too
 * led.h : turn on or off the leds of the slotcar
 * LSMD9DS1.h : library used for the gyroscope, accelerometer and magnetometer (get values, calibrate)
-* morot.h : library for motor settings (direction, power)
+* motor.h : library for motor settings (direction, power)
 
 &nbsp;
 
